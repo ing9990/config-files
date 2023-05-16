@@ -1,0 +1,17 @@
+server:
+  port:
+    9001
+
+spring:
+  application:
+    name: user-service
+
+hello:
+  world: helloworld
+
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://discovery-service:8761/eureka/
