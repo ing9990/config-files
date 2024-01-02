@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Eazybank accounts related Prod APIs"
   contactDetails:
     name: "Taewoo - Product Owner"
-    email: "prod@google.com"
+    email: "{cipher}935e1d238ee0724b430c0263dd70445db0a20c6b89ebfe5d628262877a3cf757f991bf97f483711b84900b0affbbe3f3"
   onCallSupport:
     - (82) 8078-5678
     - (82) 8078-8765
