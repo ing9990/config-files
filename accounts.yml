@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Eazybank accounts related local-Changed APIs"
+  message: "Welcome to Eazybank accounts related local APIs"
   contactDetails:
     name: "Taewoo"
     email: "mail80782258@google.com"
